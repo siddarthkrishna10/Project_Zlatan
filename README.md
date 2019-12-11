@@ -20,15 +20,9 @@ plt.show()
 
 Despite playing excellent football and banging in goals constantly at all the nine clubs he's played for, the market hasn't valued Ibrahimović highly. Even if you put aside the stats, his global superstar status and his bombastic attitude off the field didn't help. He's loved by millions for his eccentric and over-the-top attitude, helping him attain cult status in football but there is no clue as to why Zlatan is up there among the big-money players.
 
-The only layman's reason I or any other football fan could come up with is his **age**. As he grew old, clubs kept selling him for a bargain price and every single time he's proven himself the player he is. On some level, these clubs do regret not using him to his full potential. As mentioned in my other project, age is a big factor when it comes to the valuation of a player. Young players are usually valued higher than their older counterparts even if the said old player has proven himself. And that's been the case with Zlatan ever since his Barcelona exit. Even in 2012, when Paris Saint-Germain was drowning in brand new oil money, they got him below the market value price(€21 million). 
+This simple project of mine is just me trying to analyse Zlatan Ibrahimović's club career with some charts to help us see how he has performed in each club and country he's played in.
 
-Another example is _Andrea Pirlo_; who played some of his best football when he moved from A.C. Milan to Juventus in 2011 on a free transfer at the age of 31. A.C. Milan didn't think that Pirlo could contribute anymore with him hitting the 30s and decided not to renew his contract. Juventus pounced on _Il professore_ who went on to play some scintillating, if not magical, football for _The Old Lady_.
-
-I think this has been the case for Zlatan throughout his post-_Inter_ career. Every club he's been to, he's scored goals, won them accolades and yet every future club decides he isn't worth the big bucks. Like I mentioned earlier, it could be his age or the fact that he is a bit of a character to deal with in the dressing room...we may never know.
-
-Therefore this simple project of mine is just me trying to analyse Zlatan Ibrahimović's club career with some charts and see how he has performed in each club he's played in.
-
-_Just a small note before you proceed any further. The stats from his Malmö days are inaccurate and a lot of sources contradict each other. So I've decided to exclude Malmo from the majority of my analysis. I'll point it out if I include them._
+> NOTE: The stats from his Malmö days are inaccurate and a lot of sources contradict each other. So I've decided to exclude Malmö from the majority of my analysis. I'll point it out if I include them.
 
 Before I go any further, here is a table summarising Zlatan's club career:
 
@@ -68,7 +62,7 @@ The output graph for this is:
 
 Just writing code and plotting graphs would seem mundane and anyone can do that. But I'd like to think that I do it for a reason, that I can extract some sort of story from it.
 
-As with the above plot, we can see it has a tad bit of linearity to it. Goes to show that as he played more and more matches, the more goals he scored. Shows how consistent Zlatan Ibrahimović has been in putting it in the net. Not many footballers, let alone journeyman footballers can say that. Even at Barcelona, where he's said to have had a hard time with Pep Guardiola and wasn't played more centrally than normal, he had 22 goals from 46 appearances which is great for a striker playing second fiddle to a certain young Argentinian sensation.
+As with the above plot, we can see it has a tad bit of linearity to it. Goes to show that as he played more and more matches, the more goals he scored. Shows how consistent Zlatan Ibrahimović has been in putting it in the net. Not many footballers, let alone journeyman footballers can say that. Even at Barcelona, where he's said to have had a hard time with _Pep Guardiola_ and wasn't played more centrally than normal, he had 22 goals from 46 appearances which is great for a striker playing second fiddle to a certain young Argentinian sensation.
 
 Now, you'd be asking why I plotted Appearances VS Minutes Played. Isn't it obvious that as a player's appearance increases, his minutes played also increases?
 
@@ -119,13 +113,23 @@ And this is the graph,
 
 ![ZlatanPairPlot3_Snap](https://github.com/siddarthkrishna10/Project_Zlatan/blob/master/Code/ZlatanPairPlot3_Snap.PNG)
 
-As his appearances increased, his rate of Goals Per Game grew while his Minutes Per Goal reduced; which is a positive thing. Means he scored more frequently. I'm sorry if I sound like a broken recorder, but this graph also seems to paint the same picture as the rest of this article. Zlatan Ibrahimović has been consistent throughout his club career. 
+This chart infact proves beyond any doubt that Zlatan has been a great player whereever he went. To be more elaborate; notice the vague chirality between the left and right graphs in the above pairplot. The left graph shows that as he appeared in more matches, he scored more goals as his goals per game ratio increases and the right graph shows that as he played in more league matches, the minutes between two goals(Minutes Per Goal) reduces; meaning he scored more frequently as the days went by.
+
+I'm sorry if I sound like a broken recorder, but the stats don't lie! Zlatan Ibrahimović has been consistent throughout his club career. 
 
 ## Conclusion:
 
-I started off this piece by wondering why Zlatan had been so undervalued throughout his career and after all these graphs, it's only made that question a lot tougher to answer. It's an enigma as to why he wasn't big in the market and moved around a lot. But nothing seems to have stopped him from scoring. He started in Malmö and he still banged them in constantly in Los Angeles recently. 
+I started off this piece by wondering why Zlatan had been so undervalued throughout his career and after all these graphs, it's only made that question a lot tougher to answer. It's an enigma as to why he wasn't big in the market and was moved around a lot. But nothing seems to have stopped him from scoring. He started in Malmö and he still banged them in constantly in Los Angeles until recently.
 
-_As of November 30th, his market value stands at €3.5 million. No one knows which league or country Zlatan Ibrahimović is planning to go next. But one thing's for sure...wherever he ends up, he'll end up being the spotlight...on and off the field!_
+The only layman's reason I or any other knowledgeable football fan could come up with is his **age**. As he grew old, clubs kept selling him for a bargain price and every single time he's proven himself the player he is. I believe that on some level, these clubs do regret not using him to his full potential.
+
+As mentioned in my other project, age is a big factor when it comes to the valuation of a player. Young players are usually valued higher than their older counterparts even if the said old player has proven himself. And that's been the case with Zlatan ever since his Barcelona exit. Even in 2012, when Paris Saint-Germain was drowning in brand new oil money, they got him below the market value price(€21 million). 
+
+_Andrea Pirlo_ is a great example for citing age playing a role in transfer. The Italian playmaker played some of his best football when he moved from A.C. Milan to Juventus in 2011 on a free transfer at the age of 31. A.C. Milan didn't think that Pirlo could contribute anymore with him hitting the 30s and decided not to renew his contract. Juventus pounced on _Il professore_ who went on to play some scintillating, if not magical, football for _The Old Lady_.
+
+I think this has been the case for Zlatan throughout his post-_Inter_ career. Every club he's been to, he's scored goals, won them accolades and yet every future club decides he isn't worth the big bucks. Like I mentioned earlier, it could be his age or the fact that he is a bit of a character to deal with in the dressing room...we may never know.
+
+_As of November 30th, his market value stands at €3.5 million. No one knows which league or country Zlatan Ibrahimović is planning to go next. But one thing's for sure...wherever he ends up, he'll sure be in the spotlight...on and off the field!_
 
 ### Sources:
 - https://www.transfermarkt.com/zlatan-ibrahimovic/profil/spieler/3455
