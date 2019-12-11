@@ -39,9 +39,9 @@ Paris Saint-Germain | 48 | €37,000,000 | €21,000,000 | 180 | 15090 | 156 | 6
 Manchester United | 21 |  €15,000,000 | €0 | 53 | 4034 | 29 | 10
 LA Galaxy | 21 | €5,000,000 | €0 | 58 | 4933 | 53 | 15
 
-Starting out at his home country with Malmö FF, playing his way up from the youth team and breaking into the first team in 1999, Zlatan has always been an out and out striker. There are no two ways about where he plays, he plays down the centre and upfront. He's a textbook goalscorer with a sharp eye for goal and amazing acrobatic skills - thanks to his Taekwando background.
+Beginning his career in Sweden with Malmö FF, playing his way up from the youth team and breaking into the first team in 1999, Zlatan has always been an out and out striker. There are no two ways about where he plays, he plays down the centre and upfront. He's a textbook goalscorer with a sharp eye for goal and amazing acrobatic skills - thanks to his Taekwando background.
 
-From [transfermarkt](https://www.transfermarkt.com/) and other websites(which will be listed at the end), I've created a CSV sheet of the goals, appearances and minutes played for Zlatan at each club; from Malmö FF to LA Galaxy. _Remember...Malmö won't be included in my analysis due to the unavailability of accurate stats.
+From [transfermarkt](https://www.transfermarkt.com/) and other websites(which will be listed at the end), I've created a CSV sheet of the goals, appearances and minutes played for Zlatan at each club; from Malmö FF to LA Galaxy. _Remember...Malmö won't be included in my analysis due to the unavailability of accurate stats._
 
 First thing I'd like to show is how Zlatan's faired in the countries he's played. Because if there is anything that defines a journeyman footballer, it's to show his exploits; how's he performed in the countries he's played in.
 
@@ -68,7 +68,7 @@ Now, you'd be asking why I plotted Appearances VS Minutes Played. Isn't it obvio
 
 _Actually yes...but no!_
 
-Strikers usually as they grow old, they tend to become super subs. Brought on in the last 10-20 mins to grab a late equaliser or winner for the team. So generally, a striker like Zlatan should've seen a decrease in his playing time as the years went by. But that wasn't the case,
+Usually as strikers grow old, they tend to become super subs. Subbed on in the last 10-20 mins to grab a late equaliser or winner for the team. So generally, a striker like Zlatan should've seen a decrease in his playing time as the years went by. But that wasn't the case,
 
 ![ZlatanPairPlot2_Snap](https://github.com/siddarthkrishna10/Project_Zlatan/blob/master/Code/ZlatanPairPlot2_Snap.PNG)
 
@@ -113,13 +113,13 @@ And this is the graph,
 
 ![ZlatanPairPlot3_Snap](https://github.com/siddarthkrishna10/Project_Zlatan/blob/master/Code/ZlatanPairPlot3_Snap.PNG)
 
-This chart, in fact, proves beyond any doubt that Zlatan has been a great player wherever he went. To be more elaborate; notice the vague chirality between the left and right graphs in the above pairplot. The left graph shows that as he appeared in more matches, he scored more goals as his goals per game ratio increases and the right graph shows that as he played in more league matches, the minutes between two goals(Minutes Per Goal) reduces; meaning he scored more frequently as the days went by.
+This chart proves beyond any doubt that Zlatan has been a great player wherever he went. To be more elaborate; notice the vague chirality between the left and right graphs in the above pairplot. The left graph shows that as he appeared in more matches, he scored more goals as his goals per game ratio increases and the right graph shows that as he played in more league matches, the minutes between two goals(Minutes Per Goal) reduces; meaning he scored more frequently as the days went by.
 
 I'm sorry if I sound like a broken recorder, but the stats don't lie! Zlatan Ibrahimović has been consistent throughout his club career. 
 
 ## Conclusion:
 
-I started off this piece by wondering why Zlatan had been so undervalued throughout his career and after all these graphs, it's only made that question a lot tougher to answer. It's an enigma as to why he wasn't big in the market and was moved around a lot. But nothing seems to have stopped him from scoring. He started in Malmö and he still banged them in constantly in Los Angeles until recently.
+I started this piece by wondering why Zlatan had been so undervalued throughout his career and after all these graphs, it's only made that question a lot tougher to answer. It's an enigma as to why he wasn't big in the market and was moved around a lot. But nothing seems to have stopped him from scoring. He started in Malmö and he still banged them in constantly in Los Angeles until recently.
 
 The only layman's reason I or any other knowledgeable football fan could come up with is his **age**. As he grew old, clubs kept selling him for a bargain price and every single time he's proven himself the player he is. I believe that on some level, these clubs do regret not using him to his full potential.
 
