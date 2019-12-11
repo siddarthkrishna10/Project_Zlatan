@@ -1,6 +1,6 @@
 # The Curious Case of Zlatan Ibrahimović
 
-While working on my [Football Transfers piece](https://github.com/siddarthkrishna10/Football_Transfers), I came across a quirk in the dataset. _Zlatan Ibrahimović_; the legendary Journeyman/Illeist/Scorer-of-great-goals/Pompous/Swedish Footballer, was undervalued throughout his career. You would think that one of the most decorated footballers in the modern era who has won over 31 career trophies and scored over 450+ goals would've been highly sought after in terms of money! But that doesn't seem to be the case with Zlatan. Just take a look at this graph,
+While working on my [Football Transfers piece](https://github.com/siddarthkrishna10/Football_Transfers), I came across a quirk in the dataset. _Zlatan Ibrahimović_; the Legendary/Journeyman/Illeist/Scorer-of-great-goals/Pompous/Swedish Footballer, was undervalued throughout his career. You would think that one of the most decorated footballers in the modern era who has won over 31 career trophies and scored over 450+ goals would've been highly sought after in terms of money! But that doesn't seem to be the case with Zlatan. Just take a look at this graph,
 
 ![ZlatanValuation_Snap](https://github.com/siddarthkrishna10/Project_Zlatan/blob/master/Code/ZlatanValuation_Snap.PNG)
 
@@ -113,7 +113,7 @@ And this is the graph,
 
 ![ZlatanPairPlot3_Snap](https://github.com/siddarthkrishna10/Project_Zlatan/blob/master/Code/ZlatanPairPlot3_Snap.PNG)
 
-This chart infact proves beyond any doubt that Zlatan has been a great player whereever he went. To be more elaborate; notice the vague chirality between the left and right graphs in the above pairplot. The left graph shows that as he appeared in more matches, he scored more goals as his goals per game ratio increases and the right graph shows that as he played in more league matches, the minutes between two goals(Minutes Per Goal) reduces; meaning he scored more frequently as the days went by.
+This chart, in fact, proves beyond any doubt that Zlatan has been a great player wherever he went. To be more elaborate; notice the vague chirality between the left and right graphs in the above pairplot. The left graph shows that as he appeared in more matches, he scored more goals as his goals per game ratio increases and the right graph shows that as he played in more league matches, the minutes between two goals(Minutes Per Goal) reduces; meaning he scored more frequently as the days went by.
 
 I'm sorry if I sound like a broken recorder, but the stats don't lie! Zlatan Ibrahimović has been consistent throughout his club career. 
 
