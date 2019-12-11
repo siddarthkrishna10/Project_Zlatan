@@ -3,8 +3,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 #Reading the dataset into an object
-b = pd.read_csv('https://github.com/siddarthkrishna10/Project_Zlatan/blob/master/Datasets/Zlatan_ClubComp.csv')
-c = pd.read_csv('https://github.com/siddarthkrishna10/Project_Zlatan/blob/master/Datasets/ZlatanStat_Sheet.csv')
+b = pd.read_csv('https://github.com/siddarthkrishna10/Project_Zlatan/blob/master/Code/Zlatan_ClubComp.csv')
+c = pd.read_csv('https://github.com/siddarthkrishna10/Project_Zlatan/blob/master/Code/ZlatanStat_Sheet.csv')
 
 #Dropping Malmö row from the dataframe object c
 c = c.drop([0])
