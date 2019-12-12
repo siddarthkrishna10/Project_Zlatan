@@ -115,7 +115,7 @@ And this is the graph,
 
 This chart proves beyond any doubt that Zlatan has been a great player wherever he went. To be more elaborate; notice the vague chirality between the left and right graphs in the above pairplot. The left graph shows that as he appeared in more matches, he scored more goals as his goals per game ratio increases and the right graph shows that as he played in more league matches, the minutes between two goals(Minutes Per Goal) reduces; meaning he scored more frequently as the days went by.
 
-I'm sorry if I sound like a broken recorder, but the stats don't lie! Zlatan Ibrahimović has been consistent throughout his club career. 
+I may sound like a broken recorder, but the stats don't lie! Zlatan Ibrahimović has been consistent throughout his club career. 
 
 ## Conclusion:
 
