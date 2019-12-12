@@ -4,7 +4,7 @@ While working on my [Football Transfers piece](https://github.com/siddarthkrishn
 
 ![ZlatanValuation_Snap](https://github.com/siddarthkrishna10/Project_Zlatan/blob/master/Code/ZlatanValuation_Snap.PNG)
 
-Across the nine clubs he's played in, only F.C. Barcelona splashed a huge amount of money(€69.5 million) to get him and ironically his time there turned out to be a nightmare...of the field at least.
+Across the nine clubs he's played in, only F.C. Barcelona splashed a huge amount of money(€69.5 million) to get him and ironically his time there turned out to be a nightmare... off the field at least.
 
 Here is the code snippet for the graph:
 ```python
@@ -62,7 +62,7 @@ The output graph for this is:
 
 Just writing code and plotting graphs would seem mundane and anyone can do that. But I'd like to think that I do it for a reason, that I can extract some sort of story from it.
 
-As with the above plot, we can see it has a tad bit of linearity to it. Goes to show that as he played more and more matches, the more goals he scored. Shows how consistent Zlatan Ibrahimović has been in putting it in the net. Not many footballers, let alone journeyman footballers can say that. Even at Barcelona, where he's said to have had a hard time with _Pep Guardiola_ and wasn't played more centrally than normal, he had 22 goals from 46 appearances which is great for a striker playing second fiddle to a certain young Argentinian sensation.
+As with the above plot, you notice a tad bit of linearity in the plots. Goes to show that as he played more and more matches, the more goals he scored. Shows how consistent Zlatan Ibrahimović has been in putting it in the net. Not many footballers, let alone journeyman footballers can say that. Even at Barcelona, where he's said to have had a hard time with _Pep Guardiola_ and wasn't played more centrally than normal, he had 22 goals from 46 appearances which is great for a striker playing second fiddle to a certain young Argentinian sensation.
 
 Now, you'd be asking why I plotted Appearances VS Minutes Played. Isn't it obvious that as a player's appearance increases, his minutes played also increases?
 
@@ -90,7 +90,7 @@ cc3 = sns.pairplot(c, y_vars=['Appearances'], x_vars=['Minutes_PerGame'], hue="C
 plt.show()
 ```
 
-As you can see, apart from Ajax, he's got a steady playtime everywhere he went. Even his at his most recent club; LA Galaxy, he's been on the field 85 minutes per game...at the age of 37. Goes to show the fitness levels of Ibrahimović. Another great example showcasing his longevity was his speedy recovery during his _Red Devil_ days when he sustained serious ligament damage in his right knee only to come back into action six-and-half months later. Not only was scoring and playing beautiful football, but he also kept himself physically fit throughout his career.
+As you can see, apart from Ajax, he's got a steady minutes everywhere he went. Even at his most recent club; LA Galaxy, he's been on the field 85 minutes per game...at the age of 37. Goes to show the fitness levels of Ibrahimović. Another great example showcasing his longevity was his speedy recovery during his _Red Devil_ days when he sustained serious ligament damage in his right knee only to come back into action six-and-half months later. Not only was scoring and playing beautiful football, but he also kept himself physically fit throughout his career.
 
 Now for the last part, let's analyse Zlatan's league performance throughout his career. For this we'll take two new parameters into account; _Goals Per Game_ and _Minutes Per Goal_. I think that these two are self-explanatory from their names. Calculating them as plotting them in pairplots in my next step.
 
