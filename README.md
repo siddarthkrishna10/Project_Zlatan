@@ -136,3 +136,5 @@ _As of November 30th, his market value stands at €3.5 million. No one knows wh
 - https://en.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87
 - https://fbref.com/en/players/4cde5509/Zlatan-Ibrahimovic
 - http://www.zlatanibrahimovic.com/the_career/the_ztatistics
+
+_UPDATE: As of the 29th of January, 2020...Zlatan is back to A.C. Milan on a free transfer and is valued at €3.5 million. So far he's played five matches and scored two goals. Not bad for a 38-year old striker!!
